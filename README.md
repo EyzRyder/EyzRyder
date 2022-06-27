@@ -49,9 +49,11 @@ You can see more about my skills right below. <br>
 </div>
   <br>
   <br>
-  <div align="center"> 
-  <a href="https://www.instagram.com/eyz_ryder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrie.bessi4@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-bessi-5b0160230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/EyzRyder/EyzRyder/blob/output/github-contribution-grid-snake.svg)
+  ##
+  <div> 
+  <a align="center" href="https://www.instagram.com/eyz_ryder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a align="center" href = "mailto:gabrie.bessi4@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" href="https://www.linkedin.com/in/gabriel-bessi-5b0160230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <br>
+  ![Snake animation](https://github.com/EyzRyder/EyzRyder/blob/output/github-contribution-grid-snake.svg) <br>
 </div>
