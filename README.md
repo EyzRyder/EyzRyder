@@ -1,6 +1,6 @@
 ### <h1>Sup 👋, I'm Gabriel Bessi</h1>
 <br>
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computado">
+ <img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computado">
  <h3> A Little About Me: </h3>
 
 <p align="left">
