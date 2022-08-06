@@ -1,4 +1,4 @@
-### <h1>Sup 👋, I'm Gabriel Bessi</h1>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jokerman&size=54&duration=3500&color=620823&width=800&height=100&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
 <br>
  <img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computado">
  <h3> A Little About Me: </h3>
