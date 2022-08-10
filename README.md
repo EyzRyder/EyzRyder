@@ -1,15 +1,17 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jokerman&size=54&duration=3500&color=620823&width=800&height=100&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
-<br>
- <img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computado">
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jokerman&size=54&duration=3500&color=620823&width=800&height=100&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
+<div align="center">
+     <img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="300px" max-width="300px" width="300px" alt="Computado" align="right">
+<div align="left">
  <h3> A Little About Me: </h3>
-
-<p align="left">
+<p>
  At the moment i am studying at Etec Albert Einstein <br>
 A big fan of websites, mobile and databases development <br>
 I'm working on to be a great programmer and artist :] <br>
 You can see more about my skills right below. <br>
 </p>
-<br>
+</div>
+</div>
+<br/>
 
 <h2>My skills:</h2>
  <div style="display: inline_block" ><br>
