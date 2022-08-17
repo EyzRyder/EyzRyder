@@ -1,4 +1,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jokerman&size=54&duration=3500&color=620823&width=800&height=100&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
 <div align="center">
      <img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="300px" max-width="300px" width="300px" alt="Computado" align="right">
 <div align="left">
@@ -13,7 +16,10 @@ You can see more about my skills right below. <br>
 </div>
 <br/>
 
-<h2>My skills:</h2>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
+<h3>My skills:</h3>
  <div style="display: inline_block" ><br>
   <img align="center" alt="Bessi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Bessi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
