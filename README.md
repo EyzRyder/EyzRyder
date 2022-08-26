@@ -2,8 +2,8 @@
  <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
- <img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="300px" max-width="300px" width="300px" alt="Computado" align="right">
-<div align="center">
+ <img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="400px" max-width="400px" width="400px" align="right" alt="GB"/>
+ 
 <div align="left">
  <h3> A Little About Me: </h3>
 <p>
@@ -12,7 +12,6 @@ A big fan of websites, mobile and databases development <br>
 I'm working on to be a great programmer and artist :] <br>
 You can see more about my skills right below. <br>
 </p>
-</div>
 </div>
 <br/>
 
