@@ -1,5 +1,5 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jokerman&size=54&duration=3500&color=620823&width=800&height=100&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
- <p  align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jokerman&size=45&duration=4000&pause=1000&color=8A0938&center=true&vCenter=true&width=535&height=60&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
+ <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
  <img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="300px" max-width="300px" width="300px" alt="Computado" align="right">
@@ -17,7 +17,6 @@ You can see more about my skills right below. <br>
 <br/>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 <h3>My skills:</h3>
  <div style="display: inline_block" ><br>
