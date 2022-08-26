@@ -1,11 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jokerman&size=45&duration=4000&pause=1000&color=8A0938&center=true&vCenter=true&width=535&height=60&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
+
  <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
  <img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="400px" max-width="400px" width="400px" align="right" alt="GB"/>
  
 <div align="left">
- <h3> A Little About Me: </h3>
+ <h3> A Little About Me: 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/> 
+ </h3>
 <p>
  At the moment i am studying at Etec Albert Einstein <br>
 A big fan of websites, mobile and databases development <br>
