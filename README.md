@@ -54,8 +54,8 @@ You can see more about my skills right below. <br>
 
 <div align="center">
   <a href="https://github.com/EyzRyder">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EyzRyder&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyzRyder&layout=compact&langs_count=7&theme=radical"/> -->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EyzRyder&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyzRyder&layout=compact&langs_count=7&theme=radical"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyzryder&theme=radical" alt="eyzryder" />
 </div>
  
