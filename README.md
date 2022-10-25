@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jokerman&size=45&duration=4000&pause=1000&color=8A0938&center=true&vCenter=true&width=535&height=60&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jokerman&size=32&pause=1000&color=F60E56&background=FF960000&width=360&height=55&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
  <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
