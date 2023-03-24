@@ -12,7 +12,7 @@
  At the moment i am studying at Etec Albert Einstein <br>
 A big fan of websites, mobile and databases development <br>
 I'm working on to be a great programmer and artist :] <br>
-You can see more about my skills right below. <br>
+You can see more about my skills right below <br>
 </p>
 </div>
 <br/>
