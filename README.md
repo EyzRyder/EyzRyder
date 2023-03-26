@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jokerman&size=32&pause=1000&color=F60E56&background=FF960000&width=360&height=55&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
-
 <div style="display:flex; flex-direction: column; align-items: center">
 <img src="img/thumbnail.png" min-width="400px" width="100%" align="center" alt="GB"/>
  <h2> Um pouco Sobre mim: </h2>
