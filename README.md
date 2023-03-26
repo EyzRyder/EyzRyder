@@ -1,20 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jokerman&size=32&pause=1000&color=F60E56&background=FF960000&width=360&height=55&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
- <p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p> 
- <img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="400px" max-width="400px" width="400px" align="right" alt="GB"/>
- 
-<div align="left">
- <h3> A Little About Me: 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/> 
- </h3>
+
+<div style="display:flex; flex-direction: column; align-items: center">
+<img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="400px" max-width="400px" width="400px" align="center" alt="GB"/>
+ <h2> Um pouco Sobre mim: </h2>
 <p>
- At the moment i am studying at Etec Albert Einstein <br>
-A big fan of websites, mobile and databases development <br>
-I'm working on to be a great programmer and artist :] <br>
-You can see more about my skills right below <br>
+Sou Desenvolvedor há 2 anos, sou aluno de Desenvolvimento de Sistemas na Etec, Sou apaixonado por construir soluções paras ideias extraordinário. Eu trabalho com JavaScript / NodeJS / React / Ionic e outros tecnologias web. Sempre procuro me informar das novidades e amo aprender essas coisas, que é algo importante para ramo de programação que sempre tem algo novo para aprender. ヾ(⌐■_■)ノ♪
 </p>
 </div>
+ 
 <br/>
 
 <p  align="center">
@@ -26,7 +19,6 @@ You can see more about my skills right below <br>
    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img  align="center" alt="sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -46,6 +38,7 @@ You can see more about my skills right below <br>
 <div style="display: inline_block;"><br>
 
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+ <img  align="center" alt="sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="NextJs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img  align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
           
