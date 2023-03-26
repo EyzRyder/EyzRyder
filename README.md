@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jokerman&size=32&pause=1000&color=F60E56&background=FF960000&width=360&height=55&lines=Sup%2C+I'm+Gabriel+Bessi)](https://git.io/typing-svg)
 
 <div style="display:flex; flex-direction: column; align-items: center">
-<img src="https://user-images.githubusercontent.com/85580011/181919914-fc5116a7-f510-40f6-9ffa-0ee671ea9ab7.png" min-width="400px" max-width="400px" width="400px" align="center" alt="GB"/>
+<img src="img/thumbnail.png" min-width="400px" width="100%" align="center" alt="GB"/>
  <h2> Um pouco Sobre mim: </h2>
 <p>
 Sou Desenvolvedor há 2 anos, sou aluno de Desenvolvimento de Sistemas na Etec, Sou apaixonado por construir soluções paras ideias extraordinário. Eu trabalho com JavaScript / NodeJS / React / Ionic e outros tecnologias web. Sempre procuro me informar das novidades e amo aprender essas coisas, que é algo importante para ramo de programação que sempre tem algo novo para aprender. ヾ(⌐■_■)ノ♪
