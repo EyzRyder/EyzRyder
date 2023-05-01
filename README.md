@@ -1,5 +1,8 @@
 <div style="display:flex; flex-direction: column; align-items: center">
+<a href="https://bessiportfolio.vercel.app">
 <img src="img/thumbnail.png" min-width="400px" width="100%" align="center" alt="GB"/>
+</a>
+
  <h2> Um pouco Sobre mim: </h2>
 <p>
 Sou Desenvolvedor há 2 anos, sou aluno de Desenvolvimento de Sistemas na Etec, Sou apaixonado por construir soluções paras ideias extraordinário. Eu trabalho com JavaScript / NodeJS / React / Ionic e outros tecnologias web. Sempre procuro me informar das novidades e amo aprender essas coisas, que é algo importante para ramo de programação que sempre tem algo novo para aprender. ヾ(⌐■_■)ノ♪
