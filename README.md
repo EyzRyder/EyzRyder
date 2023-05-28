@@ -61,10 +61,10 @@ Sou Desenvolvedor há 2 anos, sou aluno de Desenvolvimento de Sistemas na Etec, 
 </div>
 <br>
 
-<div align="center" style="display:flex;flex-direction:col; align-items: center; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyzRyder&layout=compact&langs_count=7&theme=radical"/>
+
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyzRyder&layout=compact&langs_count=7&theme=radical"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyzryder&theme=radical" alt="eyzryder" />
-</div>
+
  
  ##
  
