@@ -1,6 +1,6 @@
 <div style="display:flex; flex-direction: column; align-items: center">
 <a href="https://bessiportfolio.vercel.app">
-<img src="img/Banner.png" min-width="400px" width="100%" align="center" alt="GB"/>
+<img src="img/Banner - 2.png" min-width="400px" width="100%" align="center" alt="GB"/>
 </a>
  <h2> Um pouco Sobre mim: </h2>
 <p>
