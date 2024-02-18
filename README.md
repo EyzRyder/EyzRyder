@@ -92,10 +92,10 @@ Sou Desenvolvedor há 2 anos, fui aluno de Desenvolvimento de Sistemas na Etec e
         <td>
           <img
             align="center"
-            alt="Flask"
+            alt="Angular"
             height="30"
             width="40"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
           />
         </td>
         <td>
@@ -141,10 +141,10 @@ Sou Desenvolvedor há 2 anos, fui aluno de Desenvolvimento de Sistemas na Etec e
         <td>
           <img
             align="center"
-            alt="Angular"
+            alt="Flask"
             height="30"
             width="40"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
           />
         </td>
         <td>&#124;</td>
