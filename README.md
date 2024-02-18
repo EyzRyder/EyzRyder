@@ -10,66 +10,156 @@ Sou Desenvolvedor há 2 anos, sou aluno de Desenvolvimento de Sistemas na Etec, 
  
 <br/>
 
- <div align="center" style="display: inline_block" ><br>
+ <div align="center" ><br>
 <h3> My skills:</h3>
-   <div align="center" style="display: inline_block" >
-  <p>Languages: </p>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-  <img align="center" alt="Cplus" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-   </div>
-  <br>
-  <br>
-   <div align="center" style="display: inline_block" >
-  <p>DB: </p>
-  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-   <img align="center" alt="Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-   </div>
-  <br>
-  <br>
-   <div align="center" style="display: inline_block" >
-  <p>Frameworks: </p>
-  <img align="center" alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="NexJs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-   </div>
-  <br>
-  <br>
-   <div align="center" style="display: inline_block" >
-  <p>Others: </p>
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-   </div>
-  <br>
-
-
-</div>
-
-
-<div align="center" style="display: inline_block;"><br>
-<h3> Learning At The Moment:</h3>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-
-</div>
-
-
- <div align="center" style="display: inline_block"><br>
-<h3> I plan on learning:</h3>
- <img align="center" alt="django" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
- <img align="center" alt="Graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
- <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
- <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <img align="center" alt="d3js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
- <img align="center" alt="electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> 
- <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-
-</div>
+    <table>
+      <tr>
+        <td colspan="2">Languages</td>
+        <td>&#124;</td>
+        <td colspan="2">Frameworks</td>
+        <td>&#124;</td>
+        <td>DB</td>
+      </tr>
+      <tr>
+        <td>
+          <img
+            align="center"
+            alt="Js"
+            height="30"
+            width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+          />
+        </td>
+        <td>
+          <img
+            align="center"
+            alt="Ts"
+            height="30"
+            width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+          />
+        </td>
+        <td>&#124;</td>
+        <td>
+          <img
+            align="center"
+            alt="Ionic"
+            height="30"
+            width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"
+          />
+        </td>
+        <td>
+          <img
+            align="center"
+            alt="NexJs"
+            height="30"
+            width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+          />
+        </td>
+        <td>&#124;</td>
+        <td>
+          <img
+            align="center"
+            alt="MySql"
+            height="30"
+            width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img
+            align="center"
+            alt="Csharp"
+            height="30"
+            width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"
+          />
+        </td>
+        <td>
+          <img
+            align="center"
+            alt="Python"
+            height="30"
+            width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          />
+        </td>
+        <td>&#124;</td>
+        <td>
+          <img
+            align="center"
+            alt="Flask"
+            height="30"
+            width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+          />
+        </td>
+        <td>
+          <img
+            align="center"
+            alt="React"
+            height="30"
+            width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+          />
+        </td>
+        <td>&#124;</td>
+        <td>
+          <img
+            align="center"
+            alt="firebase"
+            height="30"
+            width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <img
+            align="center"
+            alt="NodeJS"
+            height="30"
+            width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+          />
+        </td>
+        <td>&#124;</td>
+        <td>
+          <img
+            align="center"
+            alt="Express"
+            height="30"
+            width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+          />
+        </td>
+        <td>
+          <img
+            align="center"
+            alt="Angular"
+            height="30"
+            width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
+          />
+        </td>
+        <td>&#124;</td>
+        <td>
+          <img
+            align="center"
+            alt="Mongodb"
+            height="30"
+            width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"
+          />
+        </td>
+      </tr>
+    </table>
+    </div>
 <br>
 
 <div align="center">
