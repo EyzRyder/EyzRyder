@@ -1,10 +1,16 @@
 <div style="display:flex; flex-direction: column; align-items: center">
 <a href="https://bessiportfolio.vercel.app">
-<img src="img/Banner - 2.png" min-width="400px" width="100%" align="center" alt="GB"/>
+<img src="img/BannerWhite.png" min-width="400px" width="100%" align="center" alt="GB"/>
 </a>
  <h2> Um pouco Sobre mim: </h2>
 <p>
-Sou Desenvolvedor há 2 anos, fui aluno de Desenvolvimento de Sistemas na Etec e foi que me apaixonado por construir soluções paras ideias extraordinário. Eu trabalho com JavaScript / NodeJS / React / Ionic e outros tecnologias web. Sempre procuro me informar das novidades e amo aprender essas coisas, que é algo importante para ramo de programação que sempre tem algo novo para aprender.ヾ(⌐■_■)ノ♪
+Sou Desenvolvedor Full Stack com formação técnica em Desenvolvimento de Sistemas pela Etec e atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec São Paulo.  Possuo ampla experiência em soluções Web e Backend, utilizando tecnologias como TypeScript (React, Angular, Node.js), C#, Java, Python, Go. Já participei de projetos em equipe que envolveram a implementação de APIs, integração de plataformas e desenvolvimento de interfaces intuitivas, sempre com foco em inovação e eficiência. Além disso, tenho habilidades sólidas em práticas de desenvolvimento como SOLID, TDD, e Design Patterns, e sou fluente em inglês e português.
+</p>
+<p>
+Amo desenvolvedor e participar em projetos divertidos e inovadores,
+</p>
+Obrigado pela atenção.
+ヾ(⌐■_■)ノ♪
 </p>
 </div>
  
